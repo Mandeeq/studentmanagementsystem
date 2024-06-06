@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|c:\\users\\imanj\\onedrive\\desktop\\form application\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C49CF8E3-E4EC-4095-AD4C-D670D3EB7F25}|Form Application.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 115,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "update.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\update.cs",
+              "RelativeDocumentMoniker": "update.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\update.cs [Design]",
+              "RelativeToolTip": "update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:02:47.342Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "update.cs",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\update.cs",
+              "RelativeDocumentMoniker": "update.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\update.cs",
+              "RelativeToolTip": "update.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAgwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:31:23.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADQAAAAAAABGz/cvwEUAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:09:10.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\CAT 2\\Form Application\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\CAT 2\\Form Application\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:08:07.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\formlogin.cs",
+              "RelativeDocumentMoniker": "formlogin.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\CAT 2\\Form Application\\formlogin.cs [Design]",
+              "RelativeToolTip": "..\\CAT 2\\Form Application\\formlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:44:43.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formlogin.cs",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\formlogin.cs",
+              "RelativeDocumentMoniker": "formlogin.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\formlogin.cs",
+              "RelativeToolTip": "formlogin.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:58:11.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\dashboardForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\dashboardForm.cs",
+              "RelativeToolTip": "dashboardForm.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAwMAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:36:23.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\CAT 2\\Form Application\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "..\\CAT 2\\Form Application\\AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:34:48.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\dashboardForm.cs",
+              "RelativeDocumentMoniker": "dashboardForm.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\CAT 2\\Form Application\\dashboardForm.cs [Design]",
+              "RelativeToolTip": "..\\CAT 2\\Form Application\\dashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:05:23.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\imanj\\OneDrive\\Desktop\\Form Application\\AddStudentForm.cs",
+              "RelativeToolTip": "AddStudentForm.cs",
+              "ViewState": "AQIAAEYAAAAAAIBuOoE4wDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:13:39.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form Application.csproj.AssemblyReference.cache
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form_Application.Registration.resources
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form_Application.formlogin.resources
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form_Application.Properties.Resources.resources
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form Application.csproj.GenerateResource.cache
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form Application.csproj.CoreCompileInputs.cache
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\Form Application.exe.config
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\Form Application.exe
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\Form Application.pdb
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\Google.Protobuf.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\MySql.Data.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Buffers.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.IO.Pipelines.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Memory.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\ZstdSharp.dll
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\Google.Protobuf.pdb
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\Google.Protobuf.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\MySql.Data.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Buffers.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.IO.Pipelines.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Memory.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form App.421B5ED5.Up2Date
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form Application.exe
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form Application.pdb
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form_Application.AddStudentForm.resources
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form_Application.dashboardForm.resources
+C:\Users\imanj\OneDrive\Desktop\CAT 2\Form Application\obj\Debug\Form_Application.update.resources
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form Application.csproj.AssemblyReference.cache
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form_Application.AddStudentForm.resources
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form_Application.dashboardForm.resources
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form_Application.Registration.resources
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form_Application.formlogin.resources
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form_Application.Properties.Resources.resources
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form_Application.update.resources
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form Application.csproj.GenerateResource.cache
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form Application.csproj.CoreCompileInputs.cache
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form Application.exe
+C:\Users\imanj\OneDrive\Desktop\Form Application\obj\Debug\Form Application.pdb
